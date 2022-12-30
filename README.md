@@ -1,2 +1,9 @@
-# teste-repositorio
-Aprendendo a usar o Github.
+# Aprendendo a Git e Github
+
+> Status do projeto: Em desenvolvimento
+
+Esse arquivo é um teste de aprendizado:
+
+```
+Olá, seja-bem-vindo!
+```
