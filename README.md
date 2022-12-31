@@ -1,4 +1,4 @@
-# Aprendendo a Git e Github
+# Aprendendo Git e Github
 
 > Status do projeto: Em desenvolvimento
 
